@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.cpp
+PID.h
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+iostream
+-
+
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/json.hpp
+PID.h
+/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+math.h
+-
+
