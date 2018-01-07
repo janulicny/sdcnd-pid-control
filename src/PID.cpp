@@ -264,3 +264,9 @@ void PID::UpdateError(double cte) {
   
 }
 
+double PID::GetSteeringAngle() {
+  // outputs the optimal steering value
+  double steer_value = -Kp*p_error -Kd*d_error -Ki*i_error;
+  return steer_value;
+}
+

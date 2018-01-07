@@ -56,7 +56,7 @@ int main()
             pid.UpdateParamPI(init_steps, eval_steps); // see definition in PID.cpp
           }
           pid.UpdateError(cte); // update controller errors
-          steer_value = -pid.Kp*pid.p_error -pid.Kd*pid.d_error -pid.Ki*pid.i_error; // calculate new steering value
+          steer_value = pid.GetSteeringAngle(); // calculate new steering value
           // limit steer_value to interval (-1, 1)
           if (steer_value>1) {
             steer_value = 1;

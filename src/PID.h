@@ -62,6 +62,11 @@ public:
   * Updates the PI parameters after int_steps+eval_steps of the simulator
   */
   void UpdateParamPI(int init_steps, int eval_steps);
+  
+  /*
+  / Outputs the optimal steering value
+  */
+  double GetSteeringAngle();
 };
 
 #endif /* PID_H */

@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.cpp
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/PID.cpp
 PID.h
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/PID.h
 iostream
 -
 
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/PID.h
 
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/json.hpp
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/json.hpp
 algorithm
 -
 array
@@ -70,15 +70,15 @@ utility
 vector
 -
 
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/main.cpp
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/main.cpp
 uWS/uWS.h
 -
 iostream
 -
 json.hpp
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/json.hpp
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/json.hpp
 PID.h
-/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.h
+/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/PID.h
 math.h
 -
 

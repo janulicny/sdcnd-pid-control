@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/PID.cpp" "/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/build/CMakeFiles/pid.dir/src/PID.cpp.o"
-  "/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/src/main.cpp" "/mnt/c/Users/Ulicny/Documents/Programming/Udacity/SDCND/Term 2/CarND-PID-Control-Project-master/build/CMakeFiles/pid.dir/src/main.cpp.o"
+  "/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/PID.cpp" "/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/build/CMakeFiles/pid.dir/src/PID.cpp.o"
+  "/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/src/main.cpp" "/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/build/CMakeFiles/pid.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
