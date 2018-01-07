@@ -1,3 +1,0 @@
-/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Ulicny/Documents/GitHub/sdcnd-pid-control/build/CMakeFiles/pid.dir
